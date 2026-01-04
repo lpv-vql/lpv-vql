@@ -37,7 +37,4 @@ ___
 
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail,notion,twitter)](https://skillicons.dev)
 
-
-
-
-
+※私の心の中にいる永遠の青い鳥
