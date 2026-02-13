@@ -1,2 +1,2 @@
-# [lpv_vql](https://lpv-vql.github.io/lpv_vql-profile/)
+# [lpv_vql](https://lpv-vql.github.io/)
 Scratchで使える便利(?)なツールを作ったりしています...
