@@ -1,1 +1,1 @@
-# [lpv_vql](https://lpv-vql.github.io/)
+# [lpv_vql](https://lpv-vql.netlify.app)
